@@ -1,2 +1,3 @@
-# docs
-✈️ Wings Cloud 官方使用文档
+<p>	
+	<img width="100%" src="https://github.com/wingscloud/assets/blob/main/packages/assets/logos/banner.svg" />
+</p>
